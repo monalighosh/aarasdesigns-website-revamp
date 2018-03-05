@@ -1,4 +1,4 @@
 # Aaras Designs Website Revamp
-Giving Aaras Designs website a refreshing new look.  
+A refreshing new look to Aaras Designs website.  
 
 [Live Demo]()
